@@ -1,0 +1,25 @@
+{
+  "name": "kn-schedule-cli",
+  "version": "1.0.0",
+  "description": "CLI-програма для роботи з розкладом занять студентської групи",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KhrystynaYando/kn-schedule-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KhrystynaYando/kn-schedule-cli/issues"
+  },
+  "homepage": "https://github.com/KhrystynaYando/kn-schedule-cli#readme",
+  "dependencies": {
+    "commander": "^15.0.0"
+  }
+}
