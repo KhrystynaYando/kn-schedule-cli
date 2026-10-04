@@ -1,0 +1,66 @@
+{
+  "group": "ФЕІ-24",
+  "semester": 3,
+  "lessons": [
+    {
+      "id": "les-1",
+      "subject": "Об'єктно-орієнтоване програмування",
+      "day": "monday",
+      "week": "weekly",
+      "isOnline": true,
+      "room": "Zoom",
+      "teacher": {
+        "name": "Хвищун І. О.",
+        "department": "Кафедра радіофізики та комп'ютерних технологій"
+      }
+    },
+    {
+      "id": "les-2",
+      "subject": "Бази даних",
+      "day": "monday",
+      "week": "numerator",
+      "isOnline": false,
+      "room": "Ауд. 305",
+      "teacher": {
+        "name": "Гусак О. І.",
+        "department": "Кафедра системного проектування"
+      }
+    },
+    {
+      "id": "les-3",
+      "subject": "Операційні системи",
+      "day": "tuesday",
+      "week": "denominator",
+      "isOnline": false,
+      "room": "Ауд. 412",
+      "teacher": {
+        "name": "Бойко Я. О.",
+        "department": "Кафедра радіоелектронних і комп'ютерних систем"
+      }
+    },
+    {
+      "id": "les-4",
+      "subject": "Англійська мова",
+      "day": "wednesday",
+      "week": "weekly",
+      "isOnline": true,
+      "room": "Google Meet",
+      "teacher": {
+        "name": "Шандра Н. А.",
+        "department": "Кафедра іноземних мов та перекладу"
+      }
+    },
+    {
+      "id": "les-5",
+      "subject": "Оптоелектроніка",
+      "day": "thursday",
+      "week": "numerator",
+      "isOnline": false,
+      "room": "Ауд. 201",
+      "teacher": {
+        "name": "Русиняк М. О.",
+        "department": "Кафедра оптоелектроніки та інформаційних технологій"
+      }
+    }
+  ]
+}
